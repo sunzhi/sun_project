@@ -1,0 +1,17 @@
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+**/*.iml
+
+# Build
+**/build/
+.gradle/
+out/
+target/
+project/
+output/
+node_modules/
+openedbox-user-front/src/main/resources/static
+openedbox-user-front/src/main/resources/templates
