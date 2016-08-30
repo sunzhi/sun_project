@@ -1,0 +1,29 @@
+[0m[[0minfo[0m] [0mPackaging /home/dev/project/aox_war_observed_project/target/scala-2.10/aox_war_observed_project_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com/avc/aox/common[0m
+[0m[[0mdebug[0m] [0m	  /home/dev/project/aox_war_observed_project/target/scala-2.10/classes/com/avc/aox/common[0m
+[0m[[0mdebug[0m] [0m	com/avc/aox/job_start[0m
+[0m[[0mdebug[0m] [0m	  /home/dev/project/aox_war_observed_project/target/scala-2.10/classes/com/avc/aox/job_start[0m
+[0m[[0mdebug[0m] [0m	com/avc/aox[0m
+[0m[[0mdebug[0m] [0m	  /home/dev/project/aox_war_observed_project/target/scala-2.10/classes/com/avc/aox[0m
+[0m[[0mdebug[0m] [0m	com[0m
+[0m[[0mdebug[0m] [0m	  /home/dev/project/aox_war_observed_project/target/scala-2.10/classes/com[0m
+[0m[[0mdebug[0m] [0m	com/avc/aox/service/Marketshare_channel.class[0m
+[0m[[0mdebug[0m] [0m	  /home/dev/project/aox_war_observed_project/target/scala-2.10/classes/com/avc/aox/service/Marketshare_channel.class[0m
+[0m[[0mdebug[0m] [0m	com/avc[0m
+[0m[[0mdebug[0m] [0m	  /home/dev/project/aox_war_observed_project/target/scala-2.10/classes/com/avc[0m
+[0m[[0mdebug[0m] [0m	com/avc/aox/common/Hive_to_Mysql$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/dev/project/aox_war_observed_project/target/scala-2.10/classes/com/avc/aox/common/Hive_to_Mysql$.class[0m
+[0m[[0mdebug[0m] [0m	com/avc/aox/common/Hive_to_Mysql.class[0m
+[0m[[0mdebug[0m] [0m	  /home/dev/project/aox_war_observed_project/target/scala-2.10/classes/com/avc/aox/common/Hive_to_Mysql.class[0m
+[0m[[0mdebug[0m] [0m	com/avc/aox/job_start/Start.class[0m
+[0m[[0mdebug[0m] [0m	  /home/dev/project/aox_war_observed_project/target/scala-2.10/classes/com/avc/aox/job_start/Start.class[0m
+[0m[[0mdebug[0m] [0m	com/avc/aox/service[0m
+[0m[[0mdebug[0m] [0m	  /home/dev/project/aox_war_observed_project/target/scala-2.10/classes/com/avc/aox/service[0m
+[0m[[0mdebug[0m] [0m	com/avc/aox/service/Marketshare_channel$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/dev/project/aox_war_observed_project/target/scala-2.10/classes/com/avc/aox/service/Marketshare_channel$.class[0m
+[0m[[0mdebug[0m] [0m	com/avc/aox/job_start/Start$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/dev/project/aox_war_observed_project/target/scala-2.10/classes/com/avc/aox/job_start/Start$.class[0m
+[0m[[0mdebug[0m] [0m	com/avc/aox/service/Marketshare_channel$$anonfun$start$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/dev/project/aox_war_observed_project/target/scala-2.10/classes/com/avc/aox/service/Marketshare_channel$$anonfun$start$1.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
